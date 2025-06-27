@@ -13,7 +13,7 @@ This project is an end-to-end SQL case study using a music store database. The g
 
 ---
 
-## 🧠 Problem Statements Solved
+## 🧠 Problem Statements Solved(In Breif)
 
 1. **Who is the best customer?**  
    → Found the customer who spent the most across all invoices.
